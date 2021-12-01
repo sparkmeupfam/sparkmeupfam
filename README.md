@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sparkmeupfam
+- 👋 Hi, I’m Spark!
 - 👀 I’m interested in making video games!
 - 🌱 I’m currently learning C++ & Python.
 - 💞️ I’m looking to collaborate on nothing at the moment.
